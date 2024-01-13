@@ -1,0 +1,99 @@
+h1{
+
+    text-align: center;
+font-size: 100px;
+color: slategray;
+text-shadow: 5px 5px rgb(66, 62, 62);
+
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: pink;
+
+text-align: center;
+
+
+}
+
+h2{
+
+color: slategray;
+text-shadow: 4px 4px rgb(66, 62, 62);
+font-size: 50px;
+
+}
+
+.p1{
+
+font-size: 30px;
+font-weight: 500;
+
+
+}
+
+a{
+
+color: slategray;
+
+}
+
+img{
+
+border: 5px rgb(182, 173, 177) solid;
+
+}
+
+.fondo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -10;
+    object-fit: cover;
+}
+
+.fondoGris {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -5;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+p,li,h3{
+    color: pink;
+}
+
+li{
+margin: 40px 0;
+
+}
+
+h3{
+
+font-size: 35px;
+color: slategray;
+
+
+}
+
+li img{
+
+width: 600px;
+height: 900px;
+object-fit: cover;
+padding: 10px;
+
+
+}
+
+ul{
+list-style: none;
+padding: 0%;
+margin: 0%;
+
+}
